@@ -8,4 +8,4 @@ A default video plays on a loop whenever a project video is not playing. When a 
 <b>Special Thanks</b><br>
 - Chris Peel <a href="https://twitter.com/thisispeel">(@thisispeel)</a> for the mural design
 - Malik Brahimi <a href="https://github.com/mbrahimi02">(@mbrahimi02)</a> for help getting our code bug free.
-- Operations at The Martin Agency for being so helpful with the installation.
+- Operations at <a href="http://martinagency.com/">The Martin Agency</a> for being so helpful with the installation.
