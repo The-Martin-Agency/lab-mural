@@ -1,6 +1,6 @@
 # lab-mural
 <b>About</b><br>
-This is an interactive wall we created outside the Martin Lab using a Raspberry Pi, a projector, and a few arcade style buttons. Currently, we are using it to display different projects our group has worked on. It's a fun, beautiful, and different way of presenting our work within the agency to potential clients, guests, and our fellow Martin employees.
+This is an interactive wall we created outside the Martin Lab using a Raspberry Pi, a projector, and a few momentary push buttons. Currently, we are using it to display different projects our group has worked on. It's a fun, beautiful, and different way of presenting our work within the agency to potential clients, guests, and our fellow Martin employees.
 
 <b>How It Works</b><br>
 A default video plays on a loop whenever a project video is not playing. When a button is pressed, it triggers a particular video to play through the projector and is displayed on the lab mural. If someone presses a different button it will stop the current video and play that particular video.
